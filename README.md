@@ -7,7 +7,7 @@
 **Álvaro Pérez López**
 
 Tesis para obtener el título de Licenciado en Ciencia Política
-Instituto Tecnológico Autónomo de México · 2025
+Instituto Tecnológico Autónomo de México · 2026
 
 <br>
 
@@ -105,7 +105,7 @@ Consulte [`Data/README.md`](Data/README.md) para la procedencia de cada base y l
                  electoral en México, 2000--2024},
   type        = {Tesis de licenciatura},
   institution = {Instituto Tecnológico Autónomo de México},
-  year        = {2025},
+  year        = {2026},
   url         = {https://github.com/AlvaroPLZ/Tesis_Ciencia_Politica_ITAM}
 }
 ```
