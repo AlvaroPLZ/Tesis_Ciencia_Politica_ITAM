@@ -99,7 +99,7 @@ Consulte [`Data/README.md`](Data/README.md) para la procedencia de cada base y l
 ## Cómo citar
 
 ```bibtex
-@thesis{perezlopez2025dando,
+@thesis{perezlopez2026dando,
   author      = {Pérez López, Álvaro},
   title       = {Dando y dando: Dádivas, reciprocidad y comportamiento
                  electoral en México, 2000--2024},
