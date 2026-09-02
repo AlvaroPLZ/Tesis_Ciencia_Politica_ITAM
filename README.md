@@ -32,6 +32,7 @@ Instituto Tecnológico Autónomo de México · 2026
 **Códigos JEL:** D72 · C21 · D73
 
 **[Leer la tesis completa (PDF)](Tesis_final.pdf)**
+
 **[Presentación de la tesis (PDF)](https://github.com/AlvaroPLZ/Tesis_Ciencia_Politica_ITAM/blob/516623bdcd82458d76e86333996bfa4f8ee1c6c9/Tesis_deck_final.pdf)**
 
 ---
